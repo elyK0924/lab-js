@@ -40,7 +40,7 @@
             "title" : "Photo-to-PDF Converter (Python)",
             "authors" : "Kyle Viti",
             "photo" : "assets/photo-to-pdf.jpg",
-            "tags" : "personal",
+            "tags" : "Personal",
             "description" : "This application was created to solve a specific problem: I had pictures that I wanted to store digitally, and all within one file. Thus, this Photos-to-PDF application was born! This implementation takes advantage of a couple of Python's libraries:"
         }
     ]
