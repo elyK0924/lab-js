@@ -1,0 +1,47 @@
+{
+    "about":{
+        "name"  : "Kyle Viti",
+        "title" : "Computer Science Student @ Boston College",
+        "photo" : "assets/headshot.jpg" 
+    },
+    "news":[
+        {
+            "title" : "Enrolled in Web Application Development with Professor Kim",
+            "date"  : "January 2022"
+        },
+        {
+            "title" : "Became a <span class=\"bc1\"><strong>Student Leader</strong></span> and <span class=\"bc2\"><strong>Conductor</strong></span> for the Boston College \"Screaming Eagles\" Marching Band",
+            "date"  : "January 2019"
+        },
+        {
+            "title" : "Traveled to Dallas, Texas for the <strong>ServPro&reg; First Responders Bowl</strong>"   ,
+            "date"  : "December 2018"
+        },
+        {
+            "title" : "Joined the Boston College \"Screaming Eagles\" Marching Band, playing the baritone horn.",
+            "date"  : "August 2018"
+        },
+        {
+            "title" : "Graduated fifth in his class from Toll Gate High School",
+            "date"  : "May 2018"
+        }
+    ],
+    "projects":[
+        {
+            "id" : "command line",
+            "title" : "Command Line (C)",
+            "authors" : "Kyle Viti, Maya Rao",
+            "photo" : "assets/command-shell-pic.png",
+            "tags" : "Coursework",
+            "description" : "This project was done as part of Professor Rafael Ubal Tena's <strong>Operating Systems</strong> course at Boston College. It interacts directly with the user's UNIX operating system in order to execute commands as they would be written in a UNIX command shell."
+        },
+        {
+            "id" : "photo-to-pdf",
+            "title" : "Photo-to-PDF Converter (Python)",
+            "authors" : "Kyle Viti",
+            "photo" : "assets/photo-to-pdf.jpg",
+            "tags" : "personal",
+            "description" : "This application was created to solve a specific problem: I had pictures that I wanted to store digitally, and all within one file. Thus, this Photos-to-PDF application was born! This implementation takes advantage of a couple of Python's libraries:"
+        }
+    ]
+}
